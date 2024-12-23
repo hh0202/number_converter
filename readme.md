@@ -14,5 +14,5 @@
 
 **Working Hours:** 0.5
 
-**This is for HCMUS report**
+**This is for HCMUS assignment**
 
