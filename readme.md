@@ -16,3 +16,5 @@
 
 **This is for HCMUS assignment**
 
+**Only the original code should be downloaded**
+
