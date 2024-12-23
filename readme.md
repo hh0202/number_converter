@@ -16,5 +16,5 @@
 
 **This is for HCMUS assignment**
 
-**Only the original code should be downloaded**
+**Only the original code.cpp should be downloaded**
 
